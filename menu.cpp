@@ -4,5 +4,7 @@ using namespace std;
 main (){
 	
 	//inicio
-	"hola mundo"
+	cout<<"hola mundo">>endl;
+	cout<<"hola mundo 2..">>endl;
+
 }
